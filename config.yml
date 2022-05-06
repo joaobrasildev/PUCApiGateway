@@ -1,0 +1,5 @@
+services:
+  - name: users
+    url: http://localhost:3001
+  - name: services
+    url: http://localhost:3002
